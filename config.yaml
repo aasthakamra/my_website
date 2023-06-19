@@ -1,4 +1,4 @@
-baseURL: http://aastha-kamra-portfolio.netlify.app/
+baseURL: https://aastha-kamra-portfolio.netlify.app/
 languageCode: en-us
 title: Portfolio website for Aastha Kamra
 theme: forty
@@ -101,7 +101,7 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Aastha is a driven professional with a background in economics coupled with extensive experience in management consulting and early-stage investing. She is currently pursuing her MBA at London Business School. Previously, she has worked at Omidyar Network India, where she played a key role in deal sourcing, due diligence, and portfolio management for the $465M fund. Prior to that, Aastha worked at Bain & Company, where she advised leading consumer goods clients across Europe and Asia on brand strategy and growth acceleration. Aastha is an enthusiastic data science practitioner who integrates her knowledge of data manipulation, analysis and visualization into her professional endeavours. Her goal is to hone and leverage these skills to unlock actionable insights for the organizations she works with through enhanced data-driven decision-making."
+    subtitle: "Aastha is a driven professional with a background in economics coupled with extensive experience in management consulting and early-stage investing. She is currently pursuing her MBA at London Business School. Previously, she has worked at Omidyar Network India, where she played a key role in deal sourcing, due diligence, and portfolio management for the $465M fund. Prior to that, Aastha worked at Bain & Company, where she advised leading consumer goods clients across Europe and Asia on brand strategy and growth acceleration. Aastha is an enthusiastic data science practitioner who strives to integrate her knowledge of data manipulation, analysis and visualization to drive data-driven decision-making for the organiations she works with."
     title: Overview
     url: blogs
     
