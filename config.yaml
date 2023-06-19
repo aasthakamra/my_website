@@ -12,7 +12,7 @@ params:
   blog: {Aastha Kamra}
   contact:
     address:
-      - city: London
+      - city: Bondon
         country: United Kindgom
         street: Bishops Bridge Road
         title: Address
