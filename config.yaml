@@ -1,0 +1,112 @@
+baseURL: http://aastha-kamra-portfolio.netlify.app/
+languageCode: en-us
+title: Portfolio website for Aastha Kamra
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: Sample portfolio of Data Science Projects
+    title: Aastha Kamra
+  blog: {Aastha Kamra}
+  contact:
+    address:
+      - city: London
+        country: United Kindgom
+        street: Bishops Bridge Road
+        title: Address
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: akamra.mba2024@london.edu
+        title: Email
+    enable: yes
+    phone:
+      - phone: (+44) 7949987316
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: AKProductions
+    enable: yes
+    quicklinks:
+      - alt: Aastha Kamra
+        text: 'Contact: '
+        url: https://www.linkedin.com/in/aasthakamra/
+    social:
+      - icon: fa-twitter
+        label: Twitter
+        url: https://twitter.com/KamraAastha
+      - icon: #
+        label: #
+        url: #
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com/aastha.kamra/
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/aasthakamra
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/aasthakamra/
+  image: ''
+  name: Aastha Kamra
+  navigation:
+    button1:
+      - name: Home
+        url: {Aastha Kamra}
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: #
+        url: #
+      - name: Background
+        url: blogs
+      - name: Publications
+        url: blogs/ipsum
+      - name: #
+        url: #
+      - name: #
+        url: #
+    menu: Menu
+    subtitle: AASTHA
+    title: Portfolio
+  tiles:
+    enable: yes
+    showcase:
+      - image: risk_return.png
+        subtitle: Analysing daily and monthly returns of djia stocks to ascertain the risk-return tradeoff
+        title: Data Manipulation 
+        url: blogs/risk_return
+      - image: uk_politics.png
+        subtitle: Visualising data from party donations over time, and scraping foreign contributions
+        title: Data Visualization
+        url: blogs/uk_politics
+      - image: bechdel_test.png
+        subtitle: Predicting Bedechel Test Results modelling women's representation in hollywood films
+        title: Machine Learning
+        url: blogs/homework4
+      - image: final_project.jpg
+        subtitle: Mapping city and merchant locations to predict fraudulent credit card transactions
+        title: Geospatial Analysis
+        url: blogs/final_group_project
+    
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Aastha is a driven professional with a background in economics coupled with extensive experience in management consulting and early-stage investing. She is currently pursuing her MBA at London Business School. Previously, she has worked at Omidyar Network India, where she played a key role in deal sourcing, due diligence, and portfolio management for the $465M fund. Prior to that, Aastha worked at Bain & Company, where she advised leading consumer goods clients across Europe and Asia on brand strategy and growth acceleration. Aastha is an enthusiastic data science practitioner who integrates her knowledge of data manipulation, analysis and visualization into her professional endeavours. Her goal is to hone and leverage these skills to unlock actionable insights for the organizations she works with through enhanced data-driven decision-making."
+    title: Overview
+    url: blogs
+    
+  markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
